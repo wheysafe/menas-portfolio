@@ -1,0 +1,14 @@
+/* =========================================================
+   MENAS PORTFOLIO — QUICK THEME CONTROLS
+   Change the values below to reskin the entire site.
+   ========================================================= */
+:root {
+  --ink: #161616;
+  --paper: #f2f0e9;
+  --accent: #d7ff3f;
+  --muted: #6c6a63;
+  --line: #cbc8be;
+  --font-body: "Manrope", Arial, sans-serif;
+  --font-mono: "DM Mono", monospace;
+  --font-display: Georgia, serif;
+}
